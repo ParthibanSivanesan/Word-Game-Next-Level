@@ -1,0 +1,25 @@
+const WORD_LIST = [
+    { answer: 'YOUTUBE', hint: 'Like share and subscribe' },
+    { answer: 'AROMA', hint: 'PLEASING SMELL' },
+    { answer: 'AMAZON', hint: 'Online shopping' },
+    { answer: 'PEPPER', hint: 'SALT PARTNER' },
+    { answer: 'REACT', hint: 'Javascript library' },
+    { answer: 'HALT', hint: 'PUT A STOP TO' },
+    { answer: 'AVENGERS', hint: 'Infinity war' },
+    { answer: 'JUMP', hint: 'RISE SUDDENLY' },
+    { answer: 'DIAMOND', hint: 'Can cut the glass' },
+    { answer: 'SHUFFLE', hint: 'MIX CARDS UP' },
+    { answer: 'AVATAR', hint: 'The way of water' },
+    { answer: 'COMBINE', hint: 'ADD; MIX' },
+    { answer: 'WIKIPEADIA', hint: 'Online dictionary' },
+    { answer: 'CHAOS', hint: 'TOTAL DISORDER' },
+    { answer: 'JAVASCRIPT', hint: 'Dynamic Language' },
+    { answer: 'LABYRINTH', hint: 'MAZE' },
+    { answer: 'AEROPLANE', hint: 'Travel on the air' },
+    { answer: 'SHIFT', hint: 'MOVE; PERIOD OF WORD' },
+    { answer: 'FACEBOOK', hint: 'Social Media App' },
+    { answer: 'DISTURB', hint: 'INTERRUPT; UPSET' },
+    { answer: 'MACHINE', hint: 'DEVICE OR APPLIANCE' },
+  ];
+
+  export default WORD_LIST;
